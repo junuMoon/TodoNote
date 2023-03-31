@@ -1,12 +1,14 @@
 # ToDos
 
 ## Important/Urgent
-- Pipedrive 뒤지기 -> QA pairs & 고객이 본 제품을 사용하는 이유 포맷 정리: QA pair 생성했으나 토큰 길이 제한이 걸림 DBQA의 구현을 열어놔야함
-- QA pair의 구현 방법 Link와 Que와 논의
+- 다화자 샘플 데이터 Ext summ
+    - Question List 뽑기(w/o 시스템 msg, Concat 방식)
 
 ## Important/Not Urgent
 - LangChain Doc 파헤치기
     - Vector DBQA  
+- 대화 분석 시스템 메시지 프롬프팅
+- Ext summ에서 Info Loss 구간 찾는 방법은?
     
 ## Not Important/Urgent
 
