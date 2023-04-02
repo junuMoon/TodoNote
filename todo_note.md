@@ -10,7 +10,7 @@
     - Vector DBQA  
 - 대화 분석 시스템 메시지 프롬프팅
 - Ext summ에서 Info Loss 구간 찾는 방법은?
-- CLA chapter 1
+- CLA chapter 1.3
     
 ## Not Important/Urgent
 
