@@ -5,9 +5,11 @@
     - chunk size test
     - window: rewritten을 인풋으로
     - structured data 용 prompt 디자인
-        - 어떤 structured data가 gpt3.5가 가장 잘 해석하는지 테스트 
-- 다화자 샘플 데이터 Ext summ 3개
-- Question List 뽑기(w/o 시스템 msg, Concat 방식)
+- 다화자 샘플 데이터 QnA 생성 
+    - Question List 뽑기(w/o 시스템 msg, Concat 방식)
+    - Answer List 뽑기
+- 수요일부터 Micheal에게 최근회의 QnA 전달
+    - 프롬프트 버전업 
 - [Emergent Abilities](https://arxiv.org/pdf/2206.07682.pdf) 
 
 ## Important/Not Urgent
