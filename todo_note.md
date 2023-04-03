@@ -16,6 +16,7 @@
 - 대화 분석 시스템 메시지 프롬프팅
 - Ext summ에서 Info Loss 구간 찾는 방법은?
 - CLA chapter 1.3
+- Chole 프롬프트 봐주기 & 프롬프트 노하우 페이지 작성 
     
 ## Not Important/Urgent
 - CLA 신청
