@@ -1,8 +1,8 @@
 # ToDos
 
 ## Important/Urgent
-- 다화자 샘플 데이터 Ext summ
-    - Question List 뽑기(w/o 시스템 msg, Concat 방식)
+- 다화자 샘플 데이터 Ext summ 3개
+- Question List 뽑기(w/o 시스템 msg, Concat 방식)
 - [Emergent Abilities](https://arxiv.org/pdf/2206.07682.pdf) 
 
 ## Important/Not Urgent
@@ -13,6 +13,8 @@
 - CLA chapter 1.3
     
 ## Not Important/Urgent
+- CLA 신청
+- 인천공항 예약
 
 ## Not important/Not Urgent/But Funny
 - Fluenty python: slicing
