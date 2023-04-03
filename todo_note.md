@@ -1,6 +1,11 @@
 # ToDos
 
 ## Important/Urgent
+- fix: input, output을 모두 dataframe으로
+    - chunk size test
+    - window: rewritten을 인풋으로
+    - structured data 용 prompt 디자인
+        - 어떤 structured data가 gpt3.5가 가장 잘 해석하는지 테스트 
 - 다화자 샘플 데이터 Ext summ 3개
 - Question List 뽑기(w/o 시스템 msg, Concat 방식)
 - [Emergent Abilities](https://arxiv.org/pdf/2206.07682.pdf) 
