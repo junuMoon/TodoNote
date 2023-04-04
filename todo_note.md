@@ -2,10 +2,9 @@
 
 ## DoNow
 - fix: input, output을 모두 dataframe으로
-    - chunk size test
     - window: rewritten을 인풋으로
-    - structured data 용 prompt 디자인
-
+    - (optional) bert next sentence prediction 으로 sentence merge 구현 
+    
 ## Important/Urgent
 - 수요일부터 Micheal에게 최근회의 QnA 전달
     - callabo api
@@ -13,12 +12,12 @@
 - 다화자 샘플 데이터 QnA 생성 
     - Question List 뽑기(w/o 시스템 msg, Concat 방식)
     - Answer List 뽑기
+    - (optinal) 대화 분석 시스템 메시지 프롬프팅
 - [Emergent Abilities](https://arxiv.org/pdf/2206.07682.pdf) 
 
 ## Important/Not Urgent
 - LangChain Doc 파헤치기
     - Vector DBQA  
-- 대화 분석 시스템 메시지 프롬프팅
 - Ext summ에서 Info Loss 구간 찾는 방법은?
 - CLA chapter 1.3
 - Chole 프롬프트 봐주기 & 프롬프트 노하우 페이지 작성 
