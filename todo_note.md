@@ -1,19 +1,13 @@
 # ToDos
 
 ## DoNow
-- fix: input, output을 모두 dataframe으로
-    - window: rewritten을 인풋으로
-    - (optional) bert next sentence prediction 으로 sentence merge 구현 
+- demo web: show compressed dialogue 
+- compressed diaalogue window selection
     
 ## Important/Urgent
-- 수요일부터 Micheal에게 최근회의 QnA 전달
-    - callabo api
-    - QnA 프롬프트 버전업 
-- 다화자 샘플 데이터 QnA 생성 
-    - Question List 뽑기(w/o 시스템 msg, Concat 방식)
-    - Answer List 뽑기
-    - (optinal) 대화 분석 시스템 메시지 프롬프팅
-- [Emergent Abilities](https://arxiv.org/pdf/2206.07682.pdf) 
+- fix: token limit over response exception handling
+- [Double Descent](https://arxiv.org/pdf/1912.02292.pdf)
+- [Small Models](https://arxiv.org/pdf/1912.02292.pdf)
 
 ## Important/Not Urgent
 - LangChain Doc 파헤치기
@@ -23,7 +17,6 @@
 - Chole 프롬프트 봐주기 & 프롬프트 노하우 페이지 작성 
 
 ## Not Important/Urgent
-- 인천공항 예약
 
 ## Not important/Not Urgent/But Funny
 - Fluenty python: slicing
@@ -32,4 +25,3 @@
 - [GPT4](https://arxiv.org/pdf/2303.08774.pdf)
 - [ReAct](https://arxiv.org/pdf/2210.03629.pdf)
 - [In-context Learning as Implicit Bayesian Inference](https://arxiv.org/pdf/2111.02080.pdf) 
-
