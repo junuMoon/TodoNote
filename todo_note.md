@@ -1,15 +1,14 @@
 # ToDos
 
 ## DoNow
-- demo web: show compressed dialogue 
-- compressed diaalogue window selection
-    
+
 ## Important/Urgent
-- fix: token limit over response exception handling
+- DAC w/ gpt 전략
 - [Double Descent](https://arxiv.org/pdf/1912.02292.pdf)
 - [Small Models](https://arxiv.org/pdf/1912.02292.pdf)
 
 ## Important/Not Urgent
+- fix: token limit over response exception handling
 - LangChain Doc 파헤치기
     - Vector DBQA  
 - Ext summ에서 Info Loss 구간 찾는 방법은?
