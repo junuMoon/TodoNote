@@ -19,6 +19,7 @@
 
 ## Not important/Not Urgent/But Funny
 - Fluenty python: slicing
+- [build gpt from scratch](https://youtu.be/kCc8FmEb1nY)
 
 ## ToRead
 - [GPT4](https://arxiv.org/pdf/2303.08774.pdf)
