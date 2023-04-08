@@ -21,4 +21,20 @@
 	- If the sum of three vectors in R^3 is zero, it means that vector x + vector y + vector z = 0. This can be re-written as vector y = - (vector x + vector z).
 	- In this case, vector y is the negative sum of vectors x and z, meaning that it can be represented as a linear combination of vectors x and z. Since vector y can be expressed as a linear combination of the other two vectors, all three vectors must lie in the same plane.
 
-## Section 1-2. Dot Product and Orthognoality
+## Section 1-3. Vector equations of Lines and Planes
+- How can we tell v1 = (5, -1,1) and v2 = (-1, 8, 1) are not collinear?
+    - D1: 5 = -k, -1 = 8k, 1 = k
+    - D2: cos(θ) = (v1 • v2) / (||v1|| ||v2||) / θ = arccos(-12 / (sqrt(27) * sqrt(66)))
+- what is normal vector?
+    - A normal vector, often denoted as 'n', is a vector that is perpendicular (orthogonal) to a surface or a plane in 3-dimensional space. In the context of a plane, a normal vector defines the orientation of the plane, as it is orthogonal to every vector lying in the plane.
+    - For example, if you have a plane with the equation Ax + By + Cz + D = 0, the normal vector can be represented as n = (A, B, C). This is because the dot product of the normal vector and any vector within the plane will be zero, indicating their perpendicular relationship.
+- Check my reasoning is right. (1, 1, 4), (2, -3, 1), and (3,5, -2), point=(1,1,4) others are v1 and v2. v1 and v2 aren't collinear cause its cross product aren't (0,0,0). So k1*v1 + k2*v2 make a plane.
+    - Your reasoning is correct. Let me summarize and clarify the steps:
+    - Given the points (1, 1, 4), (2, -3, 1), and (3, 5, -2). Take the first point as the reference point P0 = (1, 1, 4).
+    - Create two vectors using the other two points, v1 and v2:
+    - v1 = (2, -3, 1) - (1, 1, 4) = (1, -4, -3) / v2 = (3, 5, -2) - (1, 1, 4) = (2, 4, -6)
+    - Check if v1 and v2 are collinear by calculating their cross product. If the cross product is a zero vector (0, 0, 0), they would be collinear, but in this case: v1 x v2 = (36, 0, 8)
+    - Since v1 and v2 are not collinear, they span a plane. Any linear combination of v1 and v2, i.e., k1 * v1 + k2 * v2, where k1 and k2 are scalars, will produce a vector within the plane.
+    - The plane containing the given points can be represented using the point P0 and the linear combination of vectors v1 and v2: P = P0 + k1 * v1 + k2 * v2
+- Check my reasoning. There is x0 and direction vector v1 and v2. if v1 and v2 are orthogonal, x0 + t1v1 + t2v2 is a line.
+    - In other words, when v1 and v2 are orthogonal, moving along the direction of v1 does not affect the position in the direction of v2, and vice versa. This property ensures that you can uniquely determine any point on the line using the two orthogonal direction vectors and their scalar parameters. -> False
