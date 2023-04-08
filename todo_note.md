@@ -1,6 +1,13 @@
 # ToDos
 
 ## DoNow
+- CLA chapter 1.3
+- Fluenty python: slicing
+
+## Chores
+- Vex 캠핑 물어보기
+- 티셔츠 사기
+- 머리 자르기
 
 ## Important/Urgent
 - DAC w/ gpt 전략
@@ -12,13 +19,11 @@
 - LangChain Doc 파헤치기
     - Vector DBQA  
 - Ext summ에서 Info Loss 구간 찾는 방법은?
-- CLA chapter 1.3
 - Chole 프롬프트 봐주기 & 프롬프트 노하우 페이지 작성 
 
 ## Not Important/Urgent
 
 ## Not important/Not Urgent/But Funny
-- Fluenty python: slicing
 - [build gpt from scratch](https://youtu.be/kCc8FmEb1nY)
 
 ## ToRead
