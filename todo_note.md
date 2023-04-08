@@ -8,6 +8,7 @@
 - Vex 캠핑 물어보기
 - 티셔츠 사기
 - 머리 자르기
+- 청년주택청약
 
 ## Important/Urgent
 - DAC w/ gpt 전략
