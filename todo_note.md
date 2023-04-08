@@ -26,6 +26,7 @@
 
 ## Not important/Not Urgent/But Funny
 - [build gpt from scratch](https://youtu.be/kCc8FmEb1nY)
+- [build llm agent](https://github.com/junuMoon/llm_agents)
 
 ## ToRead
 - [GPT4](https://arxiv.org/pdf/2303.08774.pdf)
