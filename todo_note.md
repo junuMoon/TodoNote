@@ -3,11 +3,6 @@
 ## DoNow
 - Fluenty python: slicing
 
-## Chores
-- Vex 캠핑 물어보기
-- 티셔츠 사기
-- 청년주택청약
-
 ## Important/Urgent
 - DAC w/ gpt 전략
 - [Double Descent](https://arxiv.org/pdf/1912.02292.pdf)
@@ -22,6 +17,8 @@
 - CLA chap2
 
 ## Not Important/Urgent
+- Vex 캠핑 물어보기
+- 청년주택청약
 
 ## Not important/Not Urgent/But Funny
 - [build gpt from scratch](https://youtu.be/kCc8FmEb1nY)
