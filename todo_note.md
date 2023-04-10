@@ -1,11 +1,12 @@
 # ToDos
 
 ## DoNow
-- Fluenty python: slicing
+- 프롬프트 노하우 페이지 작성 
 
 ## Important/Urgent
 - DAC w/ gpt 전략
 - [Double Descent](https://arxiv.org/pdf/1912.02292.pdf)
+    - [Double descent from bayesian view](https://arxiv.org/pdf/2002.08791.pdf)
 - [Small Models](https://arxiv.org/pdf/1912.02292.pdf)
 
 ## Important/Not Urgent
@@ -13,7 +14,6 @@
 - LangChain Doc 파헤치기
     - Vector DBQA  
 - Ext summ에서 Info Loss 구간 찾는 방법은?
-- Chole 프롬프트 봐주기 & 프롬프트 노하우 페이지 작성 
 - CLA chap2
 
 ## Not Important/Urgent
@@ -23,6 +23,7 @@
 ## Not important/Not Urgent/But Funny
 - [build gpt from scratch](https://youtu.be/kCc8FmEb1nY)
 - [build llm agent](https://github.com/junuMoon/llm_agents)
+- Fluenty python: slicing
 
 ## ToRead
 - [GPT4](https://arxiv.org/pdf/2303.08774.pdf)
