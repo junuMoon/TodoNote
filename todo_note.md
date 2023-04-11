@@ -23,6 +23,7 @@
 - [build llm agent](https://github.com/junuMoon/llm_agents)
 - Fluenty python: slicing
 - Ascii art: Conway's game of life
+- 어제 콜라보 회의를 kb로 todo note assistant 실험
 
 ## ToRead
 - [GPT4](https://arxiv.org/pdf/2303.08774.pdf)
