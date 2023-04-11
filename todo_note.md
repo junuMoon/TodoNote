@@ -1,15 +1,14 @@
 # ToDos
 
 ## DoNow
-- [Double Descent](https://arxiv.org/pdf/1912.02292.pdf)
-    - [Double descent from bayesian view](https://arxiv.org/pdf/2002.08791.pdf)
-    
+- Double descent를 baysian inference의 관점에서 어떻게 해석할 수 있는지 chatgpt로 찾아가기
+
 ## Important/Urgent
 - 프롬프트 노하우 페이지 작성 
 - [Small Models](https://arxiv.org/pdf/1912.02292.pdf)
 
 ## Important/Not Urgent
-- CS Bot 리서치
+- CS Bot 리서치: preprocessing & embedding 방식 개선
 - llm-toy code 마무리: 주석달기
 - LangChain Doc 파헤치기
     - Vector DBQA  
@@ -23,6 +22,7 @@
 - [build gpt from scratch](https://youtu.be/kCc8FmEb1nY)
 - [build llm agent](https://github.com/junuMoon/llm_agents)
 - Fluenty python: slicing
+- Ascii art: Conway's game of life
 
 ## ToRead
 - [GPT4](https://arxiv.org/pdf/2303.08774.pdf)
