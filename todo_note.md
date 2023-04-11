@@ -5,20 +5,18 @@
     - [Double descent from bayesian view](https://arxiv.org/pdf/2002.08791.pdf)
     
 ## Important/Urgent
-- llm-toy code 마무리: 주석달기
 - 프롬프트 노하우 페이지 작성 
-- DAC w/ gpt 전략
 - [Small Models](https://arxiv.org/pdf/1912.02292.pdf)
 
 ## Important/Not Urgent
-- fix: token limit over response exception handling
+- CS Bot 리서치
+- llm-toy code 마무리: 주석달기
 - LangChain Doc 파헤치기
     - Vector DBQA  
 - Ext summ에서 Info Loss 구간 찾는 방법은?
 - CLA chap2
 
 ## Not Important/Urgent
-- Vex 캠핑 물어보기
 - 청년주택청약
 
 ## Not important/Not Urgent/But Funny
