@@ -1,12 +1,13 @@
 # ToDos
 
 ## DoNow
-- 프롬프트 노하우 페이지 작성 
-
-## Important/Urgent
-- DAC w/ gpt 전략
 - [Double Descent](https://arxiv.org/pdf/1912.02292.pdf)
     - [Double descent from bayesian view](https://arxiv.org/pdf/2002.08791.pdf)
+    
+## Important/Urgent
+- llm-toy code 마무리: 주석달기
+- 프롬프트 노하우 페이지 작성 
+- DAC w/ gpt 전략
 - [Small Models](https://arxiv.org/pdf/1912.02292.pdf)
 
 ## Important/Not Urgent
