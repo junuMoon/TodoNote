@@ -1,16 +1,15 @@
 # ToDos
 
 ## DoNow
-- [llm study] Double descent를 baysian inference의 관점에서 어떻게 해석할 수 있는지 chatgpt로 찾아가기
-
-## Important/Urgent
 - [llm study] prepaer presentation for [Small Models](https://arxiv.org/pdf/1912.02292.pdf)
 - [compressed dialogue] 프롬프트 노하우 페이지 작성 
+
+## Important/Urgent
 - [compressed dialogue] llm-toy code 마무리: 주석달기
     - Ext summ에서 Info Loss 구간 찾는 방법은?
 
 ## Important/Not Urgent
-- CS Bot kick off 
+- [cs-gpt] CS Bot kick off 
     - 전처리 개선
     - Embedding db research
         - Vector DBQA  
