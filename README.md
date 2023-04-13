@@ -1,4 +1,7 @@
-# ToDos
+# Junu(Fran)'s TodoNote
+Welcome to my public TodoNote repo! It's where I track tasks, projects, and other cool stuff. If you have suggestions or just don't like me, feel free to [raise an issue](https://github.com/junuMoon/TodoNote/issues) or [submit a PR](https://github.com/junuMoon/TodoNote/pulls). Let's enjoy working together and grow!
+
+---
 
 ## DoNow
 - [compressed dialogue] 프롬프트 노하우 페이지 작성 
