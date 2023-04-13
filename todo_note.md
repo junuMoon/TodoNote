@@ -1,19 +1,17 @@
 # ToDos
 
 ## DoNow
+- [compressed dialogue] llm-toy code 마무리
+    - Ext summ에서 Info Loss 구간 찾는 함수 구현 
+    - Stuructured data in string을 위한 Chunk algorithm 구현
+    - Bert nsp threshold 최적화
+    - Async api request
+
+## Important/Urgent
 - [llm study] prepaer presentation for [Small Models](https://arxiv.org/pdf/1912.02292.pdf)
 - [compressed dialogue] 프롬프트 노하우 페이지 작성 
 
-## Important/Urgent
-- [compressed dialogue] llm-toy code 마무리: 주석달기
-    - Ext summ에서 Info Loss 구간 찾는 방법은?
-
 ## Important/Not Urgent
-- [cs-gpt] CS Bot kick off 
-    - 전처리 개선
-    - Embedding db research
-        - Vector DBQA  
-- LangChain Doc 파헤치기
 - [Contemporary Linear Algebra] chap2
 
 ## Not Important/Urgent
@@ -25,6 +23,7 @@
 - Fluenty python: slicing
 - Ascii art: Conway's game of life
 - Personal Todolist AI Assistnat prompting
+- 슈퍼커브 중고로 <200 구매하기
 
 ## ToRead
 - [GPT4](https://arxiv.org/pdf/2303.08774.pdf)
