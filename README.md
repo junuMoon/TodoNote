@@ -4,13 +4,13 @@ Welcome to my public TodoNote repo! It's where I track tasks, projects, and othe
 ---
 
 ## DoNow
-- [compressed dialogue] 프롬프트 노하우 페이지 작성 
+- [Contemporary Linear Algebra] chap2
 
 ## Important/Urgent
 - [llm study] prepaer presentation for [Small Models](https://arxiv.org/pdf/1912.02292.pdf)
+- [compressed dialogue] 프롬프트 노하우 페이지 작성
 
 ## Important/Not Urgent
-- [Contemporary Linear Algebra] chap2
 
 ## Not Important/Urgent
 - 청년주택청약
