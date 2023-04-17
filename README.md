@@ -4,13 +4,17 @@ Welcome to my public TodoNote repo! It's where I track tasks, projects, and othe
 ---
 
 ## DoNow
-- [Contemporary Linear Algebra] chap2
+- [compressed dialogue] 프롬프트 노하우 페이지 작성
+    - 링크랑 목표 및 범위 설정
+    - 타임라인 순으로 작성
+    - [read](https://news.hada.io/topic?id=8974&utm_source=slack&utm_medium=bot&utm_campaign=T03DX7FH9DK)
 
 ## Important/Urgent
 - [llm study] prepaer presentation for [Small Models](https://arxiv.org/pdf/1912.02292.pdf)
-- [compressed dialogue] 프롬프트 노하우 페이지 작성
+    - paper reading
 
 ## Important/Not Urgent
+- [Contemporary Linear Algebra] chap2
 
 ## Not Important/Urgent
 - 청년주택청약
