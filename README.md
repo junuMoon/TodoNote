@@ -4,15 +4,11 @@ Welcome to my public TodoNote repo! It's where I track tasks, projects, and othe
 ---
 
 ## DoNow
-- [CS-GPT] 코드리뷰
-    - 환경세팅
-    - 파이썬 스크립트 작성
-    - node로 번역해서 붙여넣기
+- [CS-GPT] db injection 파이썬 스크립트 작성
 
 ## Important/Urgent
 - [llm study] prepaer presentation for [Small Models](https://arxiv.org/pdf/1912.02292.pdf)
     - paper reading
-- 아폴로 생인선물 사기
 
 ## Important/Not Urgent
 - [Contemporary Linear Algebra] chap2
