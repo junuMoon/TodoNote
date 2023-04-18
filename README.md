@@ -4,11 +4,12 @@ Welcome to my public TodoNote repo! It's where I track tasks, projects, and othe
 ---
 
 ## DoNow
+- [llm study] prepaer presentation for [Small Models](https://arxiv.org/pdf/1912.02292.pdf)
+    - gpt3논문 참조해서 pattern 부분 작성 
 - [CS-GPT] db injection 파이썬 스크립트 작성
+    - dialogue data ERD
 
 ## Important/Urgent
-- [llm study] prepaer presentation for [Small Models](https://arxiv.org/pdf/1912.02292.pdf)
-    - paper reading
 
 ## Important/Not Urgent
 - [Contemporary Linear Algebra] chap2
@@ -17,10 +18,12 @@ Welcome to my public TodoNote repo! It's where I track tasks, projects, and othe
     - 링크랑 목표 및 범위 설정
     - 타임라인 순으로 작성
     - [read](https://news.hada.io/topic?id=8974&utm_source=slack&utm_medium=bot&utm_campaign=T03DX7FH9DK)
+- [CS-GPT] embedding + query 테스트 베드 만들기 
 
 ## Not Important/Urgent
 - 청년주택청약
 - 삼성카드 폐기
+- 면도기
 
 ## Not important/Not Urgent/But Funny
 - [build gpt from scratch](https://youtu.be/kCc8FmEb1nY)
