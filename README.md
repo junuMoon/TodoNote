@@ -1,22 +1,19 @@
 # Junu(Fran)'s TodoNote
-Welcome to my public TodoNote repo! It's where I track tasks, projects, and other cool stuff. If you have suggestions or just don't like me, feel free to [raise an issue](https://github.com/junuMoon/TodoNote/issues) or [submit a PR](https://github.com/junuMoon/TodoNote/pulls). Let's enjoy working together and grow!
+Welcome to my public TodoNote repo! It's where I track tasks, projects, and other cool stuff. If you have suggestions, feel free to [submit a PR](https://github.com/junuMoon/TodoNote/pulls) or just don't like me, [raise an issue](https://github.com/junuMoon/TodoNote/issues). Let's enjoy working together and grow!
 
 ---
 
 ## DoNow
-- [llm study] prepaer presentation for [Small Models](https://arxiv.org/pdf/1912.02292.pdf)
-    - gpt3논문 참조해서 pattern 부분 작성 
 - [CS-GPT] db injection 파이썬 스크립트 작성
     - dialogue data ERD
-
+    
 ## Important/Urgent
+- [CS-GPT] 랜딩페이지 작성
 
 ## Important/Not Urgent
 - [Contemporary Linear Algebra] chap2
 - patrick 주소 모델 fw 
 - [compressed dialogue] 프롬프트 노하우 페이지 작성
-    - 링크랑 목표 및 범위 설정
-    - 타임라인 순으로 작성
     - [read](https://news.hada.io/topic?id=8974&utm_source=slack&utm_medium=bot&utm_campaign=T03DX7FH9DK)
 - [CS-GPT] embedding + query 테스트 베드 만들기 
 
@@ -37,3 +34,4 @@ Welcome to my public TodoNote repo! It's where I track tasks, projects, and othe
 - [GPT4](https://arxiv.org/pdf/2303.08774.pdf)
 - [ReAct](https://arxiv.org/pdf/2210.03629.pdf)
 - [In-context Learning as Implicit Bayesian Inference](https://arxiv.org/pdf/2111.02080.pdf) 
+- [llm-study] [PPO colab](https://colab.research.google.com/drive/1tHY9HldOkZjjhdjbAOzY9wVxLtAuDLdl?usp=sharing) 
