@@ -4,11 +4,11 @@ Welcome to my public TodoNote repo! It's where I track tasks, projects, and othe
 ---
 
 ## DoNow
-- Ascii art: Conway's game of life
     
 ## Important/Urgent
 - [CS-GPT] db injection 파이썬 스크립트 작성
     - dialogue data ERD
+- [llm study] [RETRO](https://arxiv.org/pdf/2112.04426.pdf)
 
 ## Important/Not Urgent
 - [Contemporary Linear Algebra] chap2
@@ -24,6 +24,7 @@ Welcome to my public TodoNote repo! It's where I track tasks, projects, and othe
 - [build gpt from scratch](https://youtu.be/kCc8FmEb1nY)
 - Fluenty python: slicing
 - 슈퍼커브🏍️
+- [Ascii art]: draw rhombus with nested for loop
 
 ## ToRead
 - [GPT4](https://arxiv.org/pdf/2303.08774.pdf)
