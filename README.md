@@ -4,11 +4,11 @@ Welcome to my public TodoNote repo! It's where I track tasks, projects, and othe
 ---
 
 ## DoNow
-- [CS-GPT] db injection 파이썬 스크립트 작성
-    - dialogue data ERD
+- Ascii art: Conway's game of life
     
 ## Important/Urgent
-- [CS-GPT] 랜딩페이지 작성
+- [CS-GPT] db injection 파이썬 스크립트 작성
+    - dialogue data ERD
 
 ## Important/Not Urgent
 - [Contemporary Linear Algebra] chap2
@@ -19,16 +19,11 @@ Welcome to my public TodoNote repo! It's where I track tasks, projects, and othe
 
 ## Not Important/Urgent
 - 청년주택청약
-- 삼성카드 폐기
-- 면도기
 
 ## Not important/Not Urgent/But Funny
 - [build gpt from scratch](https://youtu.be/kCc8FmEb1nY)
-- [build llm agent](https://github.com/junuMoon/llm_agents)
 - Fluenty python: slicing
-- Ascii art: Conway's game of life
-- Personal Todolist AI Assistnat prompting
-- 슈퍼커브 중고로 <200 구매하기 🏍️
+- 슈퍼커브🏍️
 
 ## ToRead
 - [GPT4](https://arxiv.org/pdf/2303.08774.pdf)
