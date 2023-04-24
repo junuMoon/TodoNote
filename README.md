@@ -4,18 +4,18 @@ Welcome to my public TodoNote repo! It's where I track tasks, projects, and othe
 ---
 
 ## DoNow
+- [CS-GPT] VectorDB column 및 사용법
     
 ## Important/Urgent
-- [CS-GPT] db injection 파이썬 스크립트 작성
-    - dialogue data ERD
 - [llm study] [RETRO](https://arxiv.org/pdf/2112.04426.pdf)
+- [CS-GPT] Template 개선
 
 ## Important/Not Urgent
 - [Contemporary Linear Algebra] chap2
 - patrick 주소 모델 fw 
 - [compressed dialogue] 프롬프트 노하우 페이지 작성
-    - [read](https://news.hada.io/topic?id=8974&utm_source=slack&utm_medium=bot&utm_campaign=T03DX7FH9DK)
-- [CS-GPT] embedding + query 테스트 베드 만들기 
+- [CS-GPT] 다른 소스 input dialogue 파서 agent 만드는 방법
+    - link said: parser로 role을 줘도 되고 또는whatever
 
 ## Not Important/Urgent
 - 청년주택청약
@@ -31,3 +31,5 @@ Welcome to my public TodoNote repo! It's where I track tasks, projects, and othe
 - [ReAct](https://arxiv.org/pdf/2210.03629.pdf)
 - [In-context Learning as Implicit Bayesian Inference](https://arxiv.org/pdf/2111.02080.pdf) 
 - [llm-study] [PPO colab](https://colab.research.google.com/drive/1tHY9HldOkZjjhdjbAOzY9wVxLtAuDLdl?usp=sharing) 
+- [Deep Latent Model](https://arxiv.org/pdf/1812.06834.pdf)
+- [Buil real world application w/ LLM](https://huyenchip.com/2023/04/11/llm-engineering.html)
