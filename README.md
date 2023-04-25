@@ -5,12 +5,12 @@ Welcome to my public TodoNote repo! It's where I track tasks, projects, and othe
 
 ## DoNow
 - [CS-GPT] Prompt Template 작성
-    - basemodel 작성
-    - condesor 작성
     - answer_generator 작성
+    - dummy context data test code 작성
+- [llm study] [RETRO](https://arxiv.org/pdf/2112.04426.pdf)
 
 ## Important/Urgent
-- [llm study] [RETRO](https://arxiv.org/pdf/2112.04426.pdf)
+- [CS-GPT] VectorDB column 구성 w/ chatgpt
 
 ## Important/Not Urgent
 - [Contemporary Linear Algebra] chap2
@@ -18,15 +18,14 @@ Welcome to my public TodoNote repo! It's where I track tasks, projects, and othe
 - [compressed dialogue] 프롬프트 노하우 페이지 작성
 - [CS-GPT] 다른 소스 input dialogue 파서 agent 만드는 방법
     - link said: parser로 role을 줘도 되고 또는whatever
-- [CS-GPT] VectorDB column 및 사용법
 
 ## Not Important/Urgent
 - 청년주택청약
+- 슈퍼커브🏍️
 
 ## Not important/Not Urgent/But Funny
 - [build gpt from scratch](https://youtu.be/kCc8FmEb1nY)
 - Fluenty python: slicing
-- 슈퍼커브🏍️
 - [Ascii art]: draw rhombus with nested for loop
 
 ## ToRead
