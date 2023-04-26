@@ -22,6 +22,7 @@ Welcome to my public TodoNote repo! It's where I track tasks, projects, and othe
 ## Not Important/Urgent
 - 청년주택청약
 - 슈퍼커브🏍️
+- 화장솜 사기
 
 ## Not important/Not Urgent/But Funny
 - [build gpt from scratch](https://youtu.be/kCc8FmEb1nY)
