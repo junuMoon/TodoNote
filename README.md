@@ -4,17 +4,19 @@ Welcome to my public TodoNote repo! It's where I track tasks, projects, and othe
 ---
 
 ## DoNow
-- [CS-GPT] fact checker prompt engineering 
+- [CS-GPT] test code helper 작성
+    - `is_response_related_to_inquiry`
+    - `are_square_brackets_used_correctly`
+- [CS-GPT] 논문 읽고 behaviral testing 어떻게 할지 구상 
+    - [ms 논문](https://arxiv.org/pdf/2302.12813.pdf)
 
 ## Important/Urgent
+- [CS-GPT] 프롬프트 개선 방향성 잡기
 
 ## Important/Not Urgent
 - [Contemporary Linear Algebra] chap2
 - patrick 주소 모델 fw 
 - [compressed dialogue] 프롬프트 노하우 페이지 작성
-- [CS-GPT] 다른 소스 input dialogue 파서 agent 만드는 방법
-    - link said: parser로 role을 줘도 되고 또는whatever
-- [CS-GPT] VectorDB column 구성 w/ chatgpt
 
 ## Not Important/Urgent
 - 청년주택청약
