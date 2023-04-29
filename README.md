@@ -9,6 +9,7 @@ Welcome to my public TodoNote repo! It's where I track tasks, projects, and othe
     - `are_square_brackets_used_correctly`
 - [CS-GPT] 논문 읽고 behaviral testing 어떻게 할지 구상 
     - [ms 논문](https://arxiv.org/pdf/2302.12813.pdf)
+    - [Buil real world application w/ LLM](https://huyenchip.com/2023/04/11/llm-engineering.html)
 
 ## Important/Urgent
 - [CS-GPT] 프롬프트 개선 방향성 잡기
@@ -21,7 +22,7 @@ Welcome to my public TodoNote repo! It's where I track tasks, projects, and othe
 ## Not Important/Urgent
 - 청년주택청약
 - 슈퍼커브🏍️
-- 화장솜 사기
+- 운전면허 발급
 
 ## Not important/Not Urgent/But Funny
 - [build gpt from scratch](https://youtu.be/kCc8FmEb1nY)
@@ -34,4 +35,3 @@ Welcome to my public TodoNote repo! It's where I track tasks, projects, and othe
 - [In-context Learning as Implicit Bayesian Inference](https://arxiv.org/pdf/2111.02080.pdf) 
 - [llm-study] [PPO colab](https://colab.research.google.com/drive/1tHY9HldOkZjjhdjbAOzY9wVxLtAuDLdl?usp=sharing) 
 - [Deep Latent Model](https://arxiv.org/pdf/1812.06834.pdf)
-- [Buil real world application w/ LLM](https://huyenchip.com/2023/04/11/llm-engineering.html)
