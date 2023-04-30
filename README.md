@@ -20,9 +20,10 @@ Welcome to my public TodoNote repo! It's where I track tasks, projects, and othe
 
 ## Not Important/Urgent
 - 청년주택청약
-- 슈퍼커브🏍️
+- 번호판 사기
 - 운전면허 발급
 - 카드케이스
+- 10만원 입금
 
 ## Not important/Not Urgent/But Funny
 - [build gpt from scratch](https://youtu.be/kCc8FmEb1nY)
