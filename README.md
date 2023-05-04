@@ -1,22 +1,25 @@
 # Junu(Fran)'s TodoNote
-Welcome to my public TodoNote repo! It's where I track tasks, projects, and other cool stuff. If you have suggestions, feel free to [submit a PR](https://github.com/junuMoon/TodoNote/pulls) or just don't like me, [raise an issue](https://github.com/junuMoon/TodoNote/issues). Let's enjoy working together and grow!
+Welcome to my public TodoNote repo! It's where I track tasks, projects, and other cool stuff.
+If you have suggestions, feel free to [submit a PR](https://github.com/junuMoon/TodoNote/pulls) or just don't like me, [raise an issue](https://github.com/junuMoon/TodoNote/issues).
+Let's enjoy working together and grow!
 
 ---
 
 ## DoNow
-- [CS-GPT] Evaluator prompt 작성
-    - response metrics 결정
-    - few shot examples 레이블링
+- [CS-GPT] fact checker prompt 개선
 
 ## Important/Urgent
 - [CS-GPT] 프롬프트 개선 방향성 잡기
-- [CS-GPT] functional test code 작성
-    - `is_response_related_to_inquiry`
-    - `are_square_brackets_used_correctly`
 
 ## Important/Not Urgent
 - [Contemporary Linear Algebra] chap2
 - [compressed dialogue] 프롬프트 노하우 페이지 작성
+- [CS-GPT] functional test code 작성
+    - `is_response_related_to_inquiry`
+    - `are_square_brackets_used_correctly`
+- [CS-GPT] Evaluator prompt 작성
+    - response metrics 결정
+    - few shot examples 레이블링
 
 ## Not Important/Urgent
 - 청년주택청약
