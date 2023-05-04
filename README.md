@@ -7,8 +7,7 @@ Welcome to my public TodoNote repo! It's where I track tasks, projects, and othe
 - [CS-GPT] Evaluator prompt 작성
     - response metrics 결정
     - few shot examples 레이블링
-- [llm-study] [negation problem](https://arxiv.org/pdf/2209.12711.pdf) 
-    
+
 ## Important/Urgent
 - [CS-GPT] 프롬프트 개선 방향성 잡기
 - [CS-GPT] functional test code 작성
@@ -17,15 +16,15 @@ Welcome to my public TodoNote repo! It's where I track tasks, projects, and othe
 
 ## Important/Not Urgent
 - [Contemporary Linear Algebra] chap2
-- patrick 주소 모델 fw 
 - [compressed dialogue] 프롬프트 노하우 페이지 작성
 
 ## Not Important/Urgent
 - 청년주택청약
 - 번호판 파기
 - 운전면허 발급
-- 카드케이스 + 립밥 + 패드
+- 카드케이스 + 립밥
 - 토스카드 재발급
+- 스크래치 내기
 
 ## Not important/Not Urgent/But Funny
 - [build gpt from scratch](https://youtu.be/kCc8FmEb1nY)
