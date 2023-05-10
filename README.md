@@ -6,10 +6,10 @@ Let's enjoy working together and grow!
 ---
 
 ## DoNow
-- [CS-GPT] 엣지 케이스에 대한 프롬프트 개선
+- [CS-GPT] 평가지표에 대한 1차 프롬프트 개선
 
 ## Important/Urgent
-- [CS-GPT] 생성된 답변에 대한 평가지표 확립
+- [CS-GPT] 엣지 케이스에 대한 프롬프트 개선
 
 ## Important/Not Urgent
 - [Contemporary Linear Algebra] chap2
