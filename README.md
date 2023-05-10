@@ -6,27 +6,16 @@ Let's enjoy working together and grow!
 ---
 
 ## DoNow
-- [CS-GPT] fact checker prompt 개선
+- [CS-GPT] 엣지 케이스에 대한 프롬프트 개선
 
 ## Important/Urgent
-- [CS-GPT] 프롬프트 개선 방향성 잡기
+- [CS-GPT] 생성된 답변에 대한 평가지표 확립
 
 ## Important/Not Urgent
 - [Contemporary Linear Algebra] chap2
 - [compressed dialogue] 프롬프트 노하우 페이지 작성
-- [CS-GPT] functional test code 작성
-    - `is_response_related_to_inquiry`
-    - `are_square_brackets_used_correctly`
-- [CS-GPT] Evaluator prompt 작성
-    - response metrics 결정
-    - few shot examples 레이블링
 
 ## Not Important/Urgent
-- 청년주택청약
-- 번호판 파기
-- 운전면허 발급
-- 카드케이스 + 립밥
-- 토스카드 재발급
 - 스크래치 내기
 
 ## Not important/Not Urgent/But Funny
