@@ -6,10 +6,13 @@ Let's enjoy working together and grow!
 ---
 
 ## DoNow
-- [CS-GPT] 평가지표에 대한 1차 프롬프트 개선
+- [CS-GPT] 평가지표에 대한 1차 프롬프트 개선 (~05.15)
+    - 문맥 정합성
+        - 1 turn 대화에서 인사 금지
+        - query가 해결되지 않았는 데 `다른 질문은 없으신가요` 금지
+    - 정보 추출 정확도: 관련 없는 대화 사용하지 않기
 
 ## Important/Urgent
-- [CS-GPT] 엣지 케이스에 대한 프롬프트 개선
 
 ## Important/Not Urgent
 - [Contemporary Linear Algebra] chap2
