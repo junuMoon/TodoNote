@@ -6,7 +6,6 @@ Let's enjoy working together and grow!
 ---
 
 ## DoNow
-- [Contemporary Linear Algebra] chap2
 
 ## Important/Urgent
 - [CS-GPT] 평가지표에 대한 1차 프롬프트 개선 (~05.15)
@@ -16,6 +15,7 @@ Let's enjoy working together and grow!
     - 정보 추출 정확도: 관련 없는 대화 사용하지 않기
     
 ## Important/Not Urgent
+- [Contemporary Linear Algebra] chap2 T2
 - [compressed dialogue] 프롬프트 노하우 페이지 작성
 
 ## Not Important/Urgent
