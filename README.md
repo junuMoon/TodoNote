@@ -6,16 +6,16 @@ Let's enjoy working together and grow!
 ---
 
 ## DoNow
+- [Contemporary Linear Algebra] chap2
+
+## Important/Urgent
 - [CS-GPT] 평가지표에 대한 1차 프롬프트 개선 (~05.15)
     - 문맥 정합성
         - 1 turn 대화에서 인사 금지
         - query가 해결되지 않았는 데 `다른 질문은 없으신가요` 금지
     - 정보 추출 정확도: 관련 없는 대화 사용하지 않기
-
-## Important/Urgent
-
+    
 ## Important/Not Urgent
-- [Contemporary Linear Algebra] chap2
 - [compressed dialogue] 프롬프트 노하우 페이지 작성
 
 ## Not Important/Urgent
