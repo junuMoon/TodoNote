@@ -6,15 +6,14 @@ Let's enjoy working together and grow!
 ---
 
 ## DoNow
+- [CS-GPT] 프롬프트 개선-정보 추출 정확도: `chain_no_use_irrelvant_chat`
+- [CS-GPT] 테스트 케이스 추가(혹은 시나리오 별로 테스트에 적합한 json구조 만들기 -> 시나리오 추가하기 쉽도록)
 
 ## Important/Urgent
-- [CS-GPT] 평가지표에 대한 1차 프롬프트 개선 (~05.15)
-    - 문맥 정합성
-        - 1 turn 대화에서 인사 금지
-        - query가 해결되지 않았는 데 `다른 질문은 없으신가요` 금지
-    - 정보 추출 정확도: 관련 없는 대화 사용하지 않기
+- [CS-GPT] 실패 케이스 logging
     
 ## Important/Not Urgent
+- [CS-GPT] 프롬프트 개선-문맥 적합성: query가 해결되지 않았는 데 `다른 질문은 없으신가요` 금지
 - [Contemporary Linear Algebra] chap2 T2
 - [compressed dialogue] 프롬프트 노하우 페이지 작성
 
