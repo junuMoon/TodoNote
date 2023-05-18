@@ -18,6 +18,7 @@ Let's enjoy working together and grow!
 ## Not Important/Urgent
 - 스크래치 내기
 - 이불빨래
+- 구주 모두싸인
 
 ## Not important/Not Urgent/But Funny
 - [build gpt from scratch](https://youtu.be/kCc8FmEb1nY)
