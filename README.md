@@ -6,11 +6,9 @@ Let's enjoy working together and grow!
 ---
 
 ## DoNow
-- [CS-GPT] 프롬프트 개선-정보 추출 정확도: `chain_no_use_irrelvant_chat`
-- [CS-GPT] 테스트 케이스 추가(혹은 시나리오 별로 테스트에 적합한 json구조 만들기 -> 시나리오 추가하기 쉽도록)
+- [CS-GPT] chloe case 데이터 추가
 
 ## Important/Urgent
-- [CS-GPT] 실패 케이스 logging
     
 ## Important/Not Urgent
 - [CS-GPT] 프롬프트 개선-문맥 적합성: query가 해결되지 않았는 데 `다른 질문은 없으신가요` 금지
