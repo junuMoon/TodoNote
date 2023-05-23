@@ -6,25 +6,24 @@ Let's enjoy working together and grow!
 ---
 
 ## DoNow
-- [CS-GPT] chloe case 데이터 추가
+- 다커꼼뿌즈 작성 및 호무라한테 검사받기
 
 ## Important/Urgent
     
 ## Important/Not Urgent
-- [CS-GPT] 프롬프트 개선-문맥 적합성: query가 해결되지 않았는 데 `다른 질문은 없으신가요` 금지
 - [Contemporary Linear Algebra] chap2 T2
 - [compressed dialogue] 프롬프트 노하우 페이지 작성
 
 ## Not Important/Urgent
 - 스크래치 내기
 - 이불빨래
-- 구주 모두싸인
 
 ## Not important/Not Urgent/But Funny
 - [build gpt from scratch](https://youtu.be/kCc8FmEb1nY)
 - Fluenty python: slicing
 - [Ascii art]: draw rhombus with nested for loop
 - Big5 based 인생 optimization w/ ChatGpt
+- 청춘 스케치 보기
 
 ## ToRead
 - [GPT4](https://arxiv.org/pdf/2303.08774.pdf)
