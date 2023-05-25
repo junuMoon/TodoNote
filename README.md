@@ -6,9 +6,9 @@ Let's enjoy working together and grow!
 ---
 
 ## DoNow
-- 다커꼼뿌즈 작성 및 호무라한테 검사받기
+- [CS-GPT] aws 올리고 테스트
 
-## Important/Urgent
+## Important/Urgentㅓ
     
 ## Important/Not Urgent
 - [Contemporary Linear Algebra] chap2 T2
@@ -22,7 +22,6 @@ Let's enjoy working together and grow!
 - [build gpt from scratch](https://youtu.be/kCc8FmEb1nY)
 - Fluenty python: slicing
 - [Ascii art]: draw rhombus with nested for loop
-- Big5 based 인생 optimization w/ ChatGpt
 - 청춘 스케치 보기
 
 ## ToRead
