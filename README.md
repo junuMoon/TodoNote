@@ -6,8 +6,7 @@ Let's enjoy working together and grow!
 ---
 
 ## DoNow
-- [Contemporary Linear Algebra] chap2 T2
-- [Less is More](https://arxiv.org/abs/2305.11206)
+- [CLA] Applications of Linear Systems
 
 ## Important/Urgent
     
