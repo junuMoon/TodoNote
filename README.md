@@ -6,18 +6,18 @@ Let's enjoy working together and grow!
 ---
 
 ## DoNow
+- [Contemporary Linear Algebra] chap2 T2
+- [Less is More](https://arxiv.org/abs/2305.11206)
 
 ## Important/Urgent
     
 ## Important/Not Urgent
-- [Contemporary Linear Algebra] chap2 T2
 - [compressed dialogue] 프롬프트 노하우 페이지 작성
 - [CS-GPT] [azure](https://customervoice.microsoft.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR7en2Ais5pxKtso_Pz4b1_xUOFA5Qk1UWDRBMjg0WFhPMkIzTzhKQ1dWNyQlQCN0PWcu) 속도 확인 
 - [CS-GPT] api async parsing script
 - [CS-GPT] public url parsing
 
 ## Not Important/Urgent
-- 스크래치 내기
 - 이불빨래
 
 ## Not important/Not Urgent/But Funny
