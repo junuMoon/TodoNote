@@ -6,7 +6,7 @@ Let's enjoy working together and grow!
 ---
 
 ## DoNow
--[CS-GPT] 마리트 recap & close beta 회고
+- [CS-GPT] 마리트 recap & close beta 회고
 
 ## Important/Urgent
     
@@ -18,6 +18,7 @@ Let's enjoy working together and grow!
 
 ## Not Important/Urgent
 - 이불빨래
+- 루카스 발베니 B 선물하기
 
 ## Not important/Not Urgent/But Funny
 - [build gpt from scratch](https://youtu.be/kCc8FmEb1nY)
