@@ -6,14 +6,12 @@ Let's enjoy working together and grow!
 ---
 
 ## DoNow
-- [CS-GPT] 마리트 recap & close beta 회고
+- [CS-GPT] doc embedding experiment
 
 ## Important/Urgent
     
 ## Important/Not Urgent
 - [compressed dialogue] 프롬프트 노하우 페이지 작성
-- [CS-GPT] api async parsing script
-- [CS-GPT] public url parsing
 - [CLA] Applications of Linear Systems
 
 ## Not Important/Urgent
