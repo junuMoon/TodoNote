@@ -6,7 +6,7 @@ Let's enjoy working together and grow!
 ---
 
 ## DoNow
-- [CS-GPT] doc embedding experiment
+- [CS-GPT] doc embedding experiment2: w/ chat history
 
 ## Important/Urgent
     
