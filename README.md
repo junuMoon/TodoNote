@@ -6,7 +6,7 @@ Let's enjoy working together and grow!
 ---
 
 ## DoNow
-- [CLA] Applications of Linear Systems
+- [CLA] 3-1 Operations on Metrics
 
 ## Important/Urgent
 - [CS-GPT] doc embedding experiment2: w/ chat history
