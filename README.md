@@ -6,13 +6,13 @@ Let's enjoy working together and grow!
 ---
 
 ## DoNow
-- [CS-GPT] doc embedding experiment2: w/ chat history
+- [CLA] Applications of Linear Systems
 
 ## Important/Urgent
-    
+- [CS-GPT] doc embedding experiment2: w/ chat history
+
 ## Important/Not Urgent
 - [compressed dialogue] 프롬프트 노하우 페이지 작성
-- [CLA] Applications of Linear Systems
 
 ## Not Important/Urgent
 - 이불빨래
