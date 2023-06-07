@@ -6,13 +6,13 @@ Let's enjoy working together and grow!
 ---
 
 ## DoNow
-- [CLA] 3-1 Operations on Metrics
+- [CS-GPT] doc embedding experiment2: w/ chat history
 
 ## Important/Urgent
-- [CS-GPT] doc embedding experiment2: w/ chat history
 
 ## Important/Not Urgent
 - [compressed dialogue] 프롬프트 노하우 페이지 작성
+- [CLA] 3-1 Operations on Metrics
 
 ## Not Important/Urgent
 - 이불빨래
@@ -30,3 +30,4 @@ Let's enjoy working together and grow!
 - [In-context Learning as Implicit Bayesian Inference](https://arxiv.org/pdf/2111.02080.pdf) 
 - [llm-study] [PPO colab](https://colab.research.google.com/drive/1tHY9HldOkZjjhdjbAOzY9wVxLtAuDLdl?usp=sharing) 
 - [Deep Latent Model](https://arxiv.org/pdf/1812.06834.pdf)
+- [wet code](https://velog.io/@gomjellie/The-Wet-Codebase)
