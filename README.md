@@ -6,13 +6,13 @@ Let's enjoy working together and grow!
 ---
 
 ## DoNow
-- [CS-GPT] doc embedding experiment3: 3개 케이스 테스트
+- [CLA] 3-1 Operations on Metrics
 
 ## Important/Urgent
+- Incriptis 작동 구조 이해하기
 
 ## Important/Not Urgent
 - [compressed dialogue] 프롬프트 노하우 페이지 작성
-- [CLA] 3-1 Operations on Metrics
 
 ## Not Important/Urgent
 - 이불빨래
