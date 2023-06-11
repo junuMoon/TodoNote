@@ -6,28 +6,22 @@ Let's enjoy working together and grow!
 ---
 
 ## DoNow
-- [CLA] 3-1 Operations on Metrics
 
 ## Important/Urgent
 - Incriptis 작동 구조 이해하기
 
 ## Important/Not Urgent
 - [compressed dialogue] 프롬프트 노하우 페이지 작성
+- [CLA] 3-2 Inverses; Algebraic Properties of Matrices
+- Fluenty python: slicing
 
 ## Not Important/Urgent
 - 이불빨래
 - 루카스 발베니 B 선물하기
 
 ## Not important/Not Urgent/But Funny
-- [build gpt from scratch](https://youtu.be/kCc8FmEb1nY)
-- Fluenty python: slicing
 - [Ascii art]: draw rhombus with nested for loop
 - 청춘 스케치 보기
 
 ## ToRead
-- [GPT4](https://arxiv.org/pdf/2303.08774.pdf)
-- [ReAct](https://arxiv.org/pdf/2210.03629.pdf)
-- [In-context Learning as Implicit Bayesian Inference](https://arxiv.org/pdf/2111.02080.pdf) 
-- [llm-study] [PPO colab](https://colab.research.google.com/drive/1tHY9HldOkZjjhdjbAOzY9wVxLtAuDLdl?usp=sharing) 
-- [Deep Latent Model](https://arxiv.org/pdf/1812.06834.pdf)
-- [wet code](https://velog.io/@gomjellie/The-Wet-Codebase)
+- [wet code](https://www.deconstructconf.com/2019/dan-abramov-the-wet-codebase)
