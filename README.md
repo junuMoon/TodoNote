@@ -6,9 +6,7 @@ Let's enjoy working together and grow!
 ---
 
 ## DoNow
-- [CS-CAT] dummy doc embedding fn 대체
-    - embedding
-    - similary search
+- Fluenty python: slicing
 
 ## Important/Urgent
 - [CS-CAT] Dockerfile에서 playwright install 문제 해결ㅓ
@@ -16,7 +14,6 @@ Let's enjoy working together and grow!
 ## Important/Not Urgent
 - [compressed dialogue] 프롬프트 노하우 페이지 작성
 - [CLA] 3-2 Inverses; Algebraic Properties of Matrices
-- Fluenty python: slicing
 - Incriptis 작동 구조 이해하기
 
 ## Not Important/Urgent
