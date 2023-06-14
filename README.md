@@ -6,15 +6,16 @@ Let's enjoy working together and grow!
 ---
 
 ## DoNow
-- Fluenty python: slicing
 
 ## Important/Urgent
-- [CS-CAT] Dockerfile에서 playwright install 문제 해결ㅓ
+- [CS-CAT] Dockerfile에서 playwright install 문제 해결
+- [CS-CAT] cosine similarity batch 구현 
 
 ## Important/Not Urgent
 - [compressed dialogue] 프롬프트 노하우 페이지 작성
 - [CLA] 3-2 Inverses; Algebraic Properties of Matrices
 - Incriptis 작동 구조 이해하기
+- [F-Python] When a List Is Not the Answer
 
 ## Not Important/Urgent
 - 이불빨래
@@ -26,3 +27,4 @@ Let's enjoy working together and grow!
 
 ## ToRead
 - [wet code](https://www.deconstructconf.com/2019/dan-abramov-the-wet-codebase)
+- [Managin Ordered Sequences with Bisect](https://www.fluentpython.com/extra/ordered-sequences-with-bisect/)
