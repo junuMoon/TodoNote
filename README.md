@@ -6,17 +6,17 @@ Let's enjoy working together and grow!
 ---
 
 ## DoNow
-- [CS-CAT] link hotfi review
-- Incriptis 작동 구조 이해하기
+- [CS-CAT] 도커 올려서 테스트
+    - playwright build 도커파일 수정
 
 ## Important/Urgent
-- [CS-CAT] 도커 올려서 테스트
 
 ## Important/Not Urgent
 - [compressed dialogue] 프롬프트 노하우 페이지 작성
 - [CLA] 3-2 Inverses; Algebraic Properties of Matrices
 - [F-Python] When a List Is Not the Answer
 - [CS-CAT] cosine similarity batch 구현 
+- Incriptis 작동 구조 이해하기
 
 ## Not Important/Urgent
 - 이불빨래
