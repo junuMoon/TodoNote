@@ -6,24 +6,23 @@ Let's enjoy working together and grow!
 ---
 
 ## DoNow
+- [CS-CAT] link hotfi review
+- Incriptis 작동 구조 이해하기
 
 ## Important/Urgent
-- [CS-CAT] Dockerfile에서 playwright install 문제 해결
-- [CS-CAT] cosine similarity batch 구현 
+- [CS-CAT] 도커 올려서 테스트
 
 ## Important/Not Urgent
 - [compressed dialogue] 프롬프트 노하우 페이지 작성
 - [CLA] 3-2 Inverses; Algebraic Properties of Matrices
-- Incriptis 작동 구조 이해하기
 - [F-Python] When a List Is Not the Answer
+- [CS-CAT] cosine similarity batch 구현 
 
 ## Not Important/Urgent
 - 이불빨래
-- 루카스 발베니 B 선물하기
 
 ## Not important/Not Urgent/But Funny
 - [Ascii art]: draw rhombus with nested for loop
-- 청춘 스케치 보기
 
 ## ToRead
 - [wet code](https://www.deconstructconf.com/2019/dan-abramov-the-wet-codebase)
