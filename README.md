@@ -6,10 +6,11 @@ Let's enjoy working together and grow!
 ---
 
 ## DoNow
-- [CS-CAT] 도커 올려서 테스트
-    - playwright build 도커파일 수정
+- [CS-CAT] playwright scrapper AsyncThreadPoolExecutor에 담아 서버 올리기
 
 ## Important/Urgent
+- [CS-CAT] 도커 올려서 과부하 테스트
+- [CS-CAT] playwright build 도커파일 수정
 
 ## Important/Not Urgent
 - [compressed dialogue] 프롬프트 노하우 페이지 작성
