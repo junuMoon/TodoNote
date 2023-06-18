@@ -6,7 +6,8 @@ Let's enjoy working together and grow!
 ---
 
 ## DoNow
-- [CS-CAT] playwright scrapper AsyncThreadPoolExecutor에 담아 서버 올리기
+- [F-Python] When a List Is Not the Answer
+- [CLA] 3-2 Inverses; Algebraic Properties of Matrices
 
 ## Important/Urgent
 - [CS-CAT] 도커 올려서 과부하 테스트
@@ -14,16 +15,16 @@ Let's enjoy working together and grow!
 
 ## Important/Not Urgent
 - [compressed dialogue] 프롬프트 노하우 페이지 작성
-- [CLA] 3-2 Inverses; Algebraic Properties of Matrices
-- [F-Python] When a List Is Not the Answer
 - [CS-CAT] cosine similarity batch 구현 
 - Incriptis 작동 구조 이해하기
+- [CS-CAT] playwright scrapper AsyncThreadPoolExecutor에 담아 서버 올리기
 
 ## Not Important/Urgent
 - 이불빨래
 
 ## Not important/Not Urgent/But Funny
 - [Ascii art]: draw rhombus with nested for loop
+- [Numpy is all about Vectorization](https://www.labri.fr/perso/nrougier/from-python-to-numpy/)
 
 ## ToRead
 - [wet code](https://www.deconstructconf.com/2019/dan-abramov-the-wet-codebase)
