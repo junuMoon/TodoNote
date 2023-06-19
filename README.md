@@ -6,9 +6,9 @@ Let's enjoy working together and grow!
 ---
 
 ## DoNow
+- [CS-CAT] 마리트로만 parser 스크립트짜기
 
 ## Important/Urgent
-- [CS-CAT] 마리트로만 parser 스크립트짜기
 - [CS-CAT] 도커 올려서 과부하 테스트
 
 ## Important/Not Urgent
