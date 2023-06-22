@@ -6,10 +6,13 @@ Let's enjoy working together and grow!
 ---
 
 ## DoNow
-- [CS-CAT] 메타정보 프롬프트 적용 로직 구현
+- [CS-CAT] 로컬 정성 테스트
 
 ## Important/Urgent
-- [CS-CAT] 로컬 정성 테스트
+- [CS-CAT] Production 올리기
+    - 과부하 테스트
+        - db query 100
+        - doc parsing page 100
 
 ## Important/Not Urgent
 - [F-Python] Unicode Text Versus Bytes
@@ -17,10 +20,8 @@ Let's enjoy working together and grow!
 - [CS-CAT] to fix
     - parser에 max_length 제한 걸기
     - cos sim batch 구현
-- [CS-CAT] 도커 과부하 테스트
 
 ## Not Important/Urgent
-- [CS-CAT] API 데이터 로드 탐색
 
 ## Not important/Not Urgent/But Funny
 - [Ascii art]: draw rhombus with nested for loop
