@@ -6,9 +6,10 @@ Let's enjoy working together and grow!
 ---
 
 ## DoNow
-- [CS-CAT] 로컬 정성 테스트
+- [CS-CAT] 불렛리스트 string chunk
 
 ## Important/Urgent
+- [CS-CAT] 로컬 정성 테스트
 - [CS-CAT] Production 올리기
     - 과부하 테스트
         - db query 100
