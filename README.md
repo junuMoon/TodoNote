@@ -6,17 +6,14 @@ Let's enjoy working together and grow!
 ---
 
 ## DoNow
-- [CS-CAT] 불렛리스트 string chunk
+- [F-Python] Unicode Text Versus Bytes
 
 ## Important/Urgent
-- [CS-CAT] 로컬 정성 테스트
+- [CS-CAT] 불렛리스트 string chunk
 - [CS-CAT] Production 올리기
     - 과부하 테스트
-        - db query 100
-        - doc parsing page 100
 
 ## Important/Not Urgent
-- [F-Python] Unicode Text Versus Bytes
 - [CLA] 3-2 Inverses; Algebraic Properties of Matrices
 - [CS-CAT] to fix
     - parser에 max_length 제한 걸기
