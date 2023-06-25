@@ -6,7 +6,6 @@ Let's enjoy working together and grow!
 ---
 
 ## DoNow
-- [F-Python] Unicode Text Versus Bytes
 
 ## Important/Urgent
 - [CS-CAT] 불렛리스트 string chunk
@@ -14,12 +13,14 @@ Let's enjoy working together and grow!
     - 과부하 테스트
 
 ## Important/Not Urgent
+- [F-Python] Typed Named Tuples
 - [CLA] 3-2 Inverses; Algebraic Properties of Matrices
 - [CS-CAT] to fix
     - parser에 max_length 제한 걸기
     - cos sim batch 구현
 
 ## Not Important/Urgent
+- 수영 신청하기 (내일 아침 6시):
 
 ## Not important/Not Urgent/But Funny
 - [Ascii art]: draw rhombus with nested for loop

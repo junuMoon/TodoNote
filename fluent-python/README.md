@@ -1,0 +1,2 @@
+- How do you find the encoding of a byte sequence? Short answer: you can’t. You must be told(p.128)
+- 
