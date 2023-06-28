@@ -6,22 +6,20 @@ Let's enjoy working together and grow!
 ---
 
 ## DoNow
-- [CS-CAT] Production 올리기
-    - 과부하 테스트
-    - get api queue 테스트
+- [CS-CAT] 프롬프트 accuracy update
 
 ## Important/Urgent
 - [CS-CAT] 불렛리스트 string chunk
+- [CS-CAT] Production 올리기
+    - 과부하 테스트
 
 ## Important/Not Urgent
 - [F-Python] Post-init Processing
 - [CLA] 3-2 Inverses; Algebraic Properties of Matrices
-- [CS-CAT] to fix
-    - parser에 max_length 제한 걸기
-    - cos sim batch 구현
+- [LLM 페이퍼샵 지원](https://modulabs.co.kr/product/lab-12251-2023-06-19-072834/)
 
 ## Not Important/Urgent
-- CX 네트워킹 명함 등록 & 메일 초안 쓰기
+- [CS-GPT] CT 미팅가기
 
 ## Not important/Not Urgent/But Funny
 - [Ascii art]: draw rhombus with nested for loop
