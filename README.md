@@ -6,20 +6,20 @@ Let's enjoy working together and grow!
 ---
 
 ## DoNow
-- [CS-CAT] 프롬프트 accuracy update
+- [CS-CAT] Context format을 json(string)으로
 
 ## Important/Urgent
-- [CS-CAT] 불렛리스트 string chunk
-- [CS-CAT] Production 올리기
-    - 과부하 테스트
 
 ## Important/Not Urgent
 - [F-Python] Post-init Processing
 - [CLA] 3-2 Inverses; Algebraic Properties of Matrices
 - [LLM 페이퍼샵 지원](https://modulabs.co.kr/product/lab-12251-2023-06-19-072834/)
+- Embedding 모델 Training 리서치
 
 ## Not Important/Urgent
-- [CS-GPT] CT 미팅가기
+- [CS-CAT] 요모, 인라이트 메일 보내기
+    - 과외칸 내일까지 연락 없으면 문자로 컨택
+- [CS-CAT] 베타테스터들 메타정보 넣어주기
 
 ## Not important/Not Urgent/But Funny
 - [Ascii art]: draw rhombus with nested for loop
