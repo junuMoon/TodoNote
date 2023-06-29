@@ -17,9 +17,8 @@ Let's enjoy working together and grow!
 - Embedding 모델 Training 리서치
 
 ## Not Important/Urgent
-- [CS-CAT] 요모, 인라이트 메일 보내기
+- [CS-CAT] ~~요모, 인라이트 메일 보내기~~
     - 과외칸 내일까지 연락 없으면 문자로 컨택
-- [CS-CAT] 베타테스터들 메타정보 넣어주기
 
 ## Not important/Not Urgent/But Funny
 - [Ascii art]: draw rhombus with nested for loop
