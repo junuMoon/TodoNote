@@ -1,2 +1,3 @@
 - How do you find the encoding of a byte sequence? Short answer: you can’t. You must be told(p.128)
-- 
+- Data Class as Intermediate Representation: A data class can be useful to build records about to be exported to JSON or some other interchange format, or to hold data that was just imported, crossing some sys‐ tem boundary. (p.191)
+    - CSCAT Turn을 어떻게 여러 가지의 포맷으로 바꿀 수 있을까 
