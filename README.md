@@ -6,8 +6,8 @@ Let's enjoy working together and grow!
 ---
 
 ## DoNow
-- Custom Embedding 모델 Training 리서치
-- [CS-CAT] doc embedding \n 단위로 해서 concat 
+- [CS-CAT] 마리트 프롬프트 업데이트
+- [CS-CAT] information retrieval async 적용:
     
 ## Important/Urgent
 
@@ -15,6 +15,8 @@ Let's enjoy working together and grow!
 - [CLA] 3-2 Inverses; Algebraic Properties of Matrices
 - [LLM 페이퍼샵 지원](https://modulabs.co.kr/product/lab-12251-2023-06-19-072834/)
 - [F-Python] Post-init Processing
+- Custom Embedding 모델 Training 리서치
+- [CS-CAT] doc embedding \n 단위로 해서 concat 
 
 ## Not Important/Urgent
 - [CS-CAT] ~~요모, 인라이트 메일 보내기~~
